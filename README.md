@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexskrms.
-- 👀 I’m interested in Android, Angular, iOS, WebAPI, PostgreSQL.
+- 👀 I’m interested in Android, Java, Angular, iOS, WebAPI, PostgreSQL.
 - 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on Android Platform.
 - 📫 How to reach me: alex@venomapps.com
