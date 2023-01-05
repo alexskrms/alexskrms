@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in Ionic & Angular, .NET Core, PostgreSQL, Docker and Kubernetes.
 
-- 📫 How to reach me: alex@ravekon.com
+- 📫 How to reach me: alex@reteed.com
 
 Check my Google Play Store Developer Account and my Apps available: <a href="https://play.google.com/store/apps/dev?id=5110672004753084624" target="_blank">Click here</a>
 
