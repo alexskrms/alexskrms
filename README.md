@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/reteed/s3automatebackup" target="_blank">**S3AutomateBackup**</a>.
 
-- 🌱 I’m currently learning **Kubernetes** for professional production environments.
+- 🌱 I’m currently learning **Docker** for professional production environments.
 
-- 👀 I’m interested in Ionic & Angular, .NET Core, PostgreSQL, Docker and Kubernetes.
+- 👀 I’m interested in Ionic & Angular, .NET Core, PostgreSQL and Docker.
 
 - 📫 How to reach me: alex@reteed.com or <a href="https://www.linkedin.com/in/%C3%A0lex-m%C3%A0rtir-sabater-935265209/" target="_blank">LinkedIn</a>.
 
