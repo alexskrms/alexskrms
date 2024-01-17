@@ -8,6 +8,6 @@
 
 - 👀 I’m interested in Ionic & Angular, .NET Core, PostgreSQL, Docker and Kubernetes.
 
-- 📫 How to reach me: alex@reteed.com or <a href="https://www.linkedin.com/in/%C3%A0lex-m%C3%A0rtir-sabater-935265209/" target="_blank">Linkedin</a>.
+- 📫 How to reach me: alex@reteed.com or <a href="https://www.linkedin.com/in/%C3%A0lex-m%C3%A0rtir-sabater-935265209/" target="_blank">LinkedIn</a>.
 
 Check my Google Play Store Developer Account and my Apps available: <a href="https://play.google.com/store/apps/dev?id=7934182733726465646" target="_blank">Click here</a>
